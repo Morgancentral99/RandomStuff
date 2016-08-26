@@ -7,6 +7,6 @@ branches:
    - yuri 
 
 notifications:
-  email
+  email:
     - morgancentral99@gmail.com
     - morgan.p1@usd352.org
